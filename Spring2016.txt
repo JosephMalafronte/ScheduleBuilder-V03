@@ -1,0 +1,7 @@
+CS201 4hr T,TR 8:00am-9:50am
+ECE383 4hr M,W,F 12:00pm-12:50pm
+ECE383Lab 0hr TR 3:30pm-5:20pm
+MATH302 1hr M,W 3:00pm-4:50pm
+GBA272 1.5hr W 5:00pm-6:15pm
+COM352 3hr M,W,F 11:00am-11:50am
+PHL100 3hr T,TR 11:00am-11:50am

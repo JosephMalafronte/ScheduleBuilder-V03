@@ -1,0 +1,6 @@
+emptySchedule
+Spring2016
+Fall2015
+Spring2017
+Fall2017
+TestFile
